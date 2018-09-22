@@ -20,7 +20,7 @@ Installation instructions
 Clone this repo
 
 ```
-git clone https://github.com/twilightsparkle303/hiddendot
+git clone https://github.com/tmgroupsecurity/hiddendot
 ```
 
 Install requirements
