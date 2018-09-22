@@ -32,12 +32,6 @@ pip3 install -r requirements.txt
 
 I will be very happy if you contribute it ;)
 
-## Authors
-
-* **Twilight Sparkle** - *Initial work* - [Twilight Sparkle](https://github.com/twilightsparkle303)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.md) file for details
